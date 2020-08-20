@@ -1,0 +1,4 @@
+# 저장소에 반영하지 않을 파일의 목록
+/.classpath
+/.project
+.settings
